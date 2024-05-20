@@ -20,6 +20,9 @@ The Powershell script found in the repository is responsible for extracting the 
 
 - <b>PowerShell : Use script to extract logs and grab latitude and longitude from IP using [IP Geolocation](ipgeolocation.io) API Key</b> 
 - <b>KQL : Query extracted logs in order to display latitude and longitude correctly on Map</b>
+<p align="center">
+<img src="https://i.imgur.com/szKaePC.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
+</p>
 
 <h2>Environments Used </h2>
 
