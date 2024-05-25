@@ -1,7 +1,5 @@
 <h1>Failed RDP Azure Honeypot With Geo Mapping</h1>
 
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
-
 <h2>Description</h2>
 This project consists of setting up a live honeypot in Azure, consisting of the following components, a VM with firewall removed which is then connect to the Log Analytics Workspace in Azure. We then use the logs obtained in the Sentinel (SIEM) to plot our attackers approximated geolocations based on their IP's longitude and lattitude.  
 <br></br>
