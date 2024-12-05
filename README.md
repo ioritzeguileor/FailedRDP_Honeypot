@@ -27,7 +27,7 @@ The Powershell script found in the repository is responsible for extracting the 
 - <b>Windows 10</b> (21H2)
 
 
-<h2>Attacks from Brazil coming in; Custom logs being output with geodata</h2>
+<h2>Attacks from Brazil coming in: Custom logs being output with geodata</h2>
 
 <p align="center">
 <img src="https://i.imgur.com/uElyDW2.png" height="85%" width="85%" alt="Image Analysis Dataflow"/>
